@@ -7,7 +7,7 @@
 /*/.gitignore
 /*/.mxproject
 /*/.project
-/*/Basi_UART.ioc
-/*/Basi_UART Debug.launch
+/*/*.ioc
+/*/*.launch
 /*/STM32F401RETX_FLASH.ld
 /*/STM32F401RETX_RAM.ld
